@@ -36,13 +36,13 @@ gmdc-share-analysis/
 │   └── gmdc_and_peers_close.csv          # Closing prices: GMDC, Coal India, NMDC
 │
 ├── tableau/
-│   └── DV_miniproject_16010324044.twb    # Tableau workbook (requires Tableau Desktop)
+│   └── gmdc_share_analysis.twb    # Tableau workbook (requires Tableau Desktop)
 │
 ├── powerbi/
-│   └── DV_miniproject_16010324044.pbix   # Power BI report (requires Power BI Desktop)
+│   └── gmdc_share_analysis.pbix   # Power BI report (requires Power BI Desktop)
 │
 └── report/
-    └── DV_miniproject_16010324044_report.docx  # Full project report
+    └── report.docx  # Full project report
 ```
 
 ---
@@ -98,12 +98,12 @@ This generates:
 
 ### Tableau
 - Requires [Tableau Desktop](https://www.tableau.com/products/desktop) (or Tableau Public)
-- Open `tableau/DV_miniproject_16010324044.twb`
+- Open `tableau/gmdc_share_analysis.twb`
 - Point the data source to the `data/` folder if prompted
 
 ### Power BI
 - Requires [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-- Open `powerbi/DV_miniproject_16010324044.pbix`
+- Open `powerbi/gmdc_share_analysis.pbix`
 - Refresh the data source to point to the `data/` folder if prompted
 
 ---
